@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pass2774/nodejs_example.git"
+  },
+  "keywords": [
+    "node.js",
+    "example"
+  ],
+  "author": "pass2774",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pass2774/nodejs_example/issues"
+  },
+  "homepage": "https://github.com/pass2774/nodejs_example#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
